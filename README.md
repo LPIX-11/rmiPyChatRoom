@@ -1,11 +1,11 @@
 # RMI-Py-ChatRoom
-Simple RMI ChatRoom in ![python]("https://www.python.org/") with multi-threading allowing up to 100 clients per server using python3.7 version.
+Simple RMI ChatRoom in [python]("https://www.python.org/") with multi-threading allowing up to 100 clients per server using python3.7 version.
 
 ## Set Up
 Install python 3.7 environment
-* ![Install Python 3.7 On Linux]("https://tecadmin.net/install-python-3-7-on-ubuntu-linuxmint/")
-* ![Install Python 3.7 On Windows]("https://www.ics.uci.edu/~pattis/common/handouts/pythoneclipsejava/python.html")
-* ![Install Python 3.7 On Mac]("https://wsvincent.com/install-python3-mac/")
+* [Install Python 3.7 On Linux]("https://tecadmin.net/install-python-3-7-on-ubuntu-linuxmint/")
+* [Install Python 3.7 On Windows]("https://www.ics.uci.edu/~pattis/common/handouts/pythoneclipsejava/python.html")
+* [Install Python 3.7 On Mac]("https://wsvincent.com/install-python3-mac/")
 
 ### Start The Program
 ```sh
