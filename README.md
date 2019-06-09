@@ -1,4 +1,5 @@
 # RMI-Py-ChatRoom
+![python picture](https://hdqwalls.com/download/python-qhd-3840x2160.jpg)
 Simple RMI ChatRoom in [python](https://www.python.org/) with multi-threading allowing up to 100 clients per server using python3.7 version.
 
 ## Set Up
